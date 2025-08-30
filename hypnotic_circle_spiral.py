@@ -3,7 +3,7 @@ import turtle, math
 t = turtle.Turtle()
 t.speed(0)
 turtle.bgcolor("black")
-t.pencolor("magenta")
+t.pencolor("cyan")
 
 a = 200
 k = 5   # try changing 3, 4, 7...

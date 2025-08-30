@@ -1,8 +1,10 @@
 import turtle
 
 noah=turtle.Turtle()
+
+turtle.bgcolor('#0d0d2b')
 noah.speed(20)
-noah.color('red', 'yellow')
+noah.color('cyan', 'red')
 noah.begin_fill()
 for i in range(108):
     noah.forward(200)

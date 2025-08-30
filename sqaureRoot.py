@@ -1,7 +1,7 @@
 import turtle
 import math
 noah=turtle.Turtle()
-
+turtle.bgcolor('#0d0d2b')
 noah.color('red','yellow')
 noah.speed(40)
 

@@ -1,12 +1,13 @@
 import turtle
-
+turtle.bgcolor('#0d0d2b')
 noah=turtle.Turtle()
 
-noah.color('#cf1342', '#13b2cf')
 
 
+noah.pencolor('cyan')
     
 noah.begin_fill()
+
 for i in range(3):
     noah.forward(100)
     noah.left(90)

@@ -1,9 +1,8 @@
 import turtle
-
+turtle.bgcolor("#0d0d2b")
 noah = turtle.Turtle()
-noah.getscreen().bgcolor("#994444")
 noah.speed(0)   # make drawing faster
-
+noah.pencolor("cyan")
 def star(noah, size):
     if size <= 20:   # base case
         return

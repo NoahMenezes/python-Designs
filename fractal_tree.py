@@ -26,7 +26,7 @@ screen.bgcolor("black")
 
 t = turtle.Turtle()
 t.speed(0)
-t.color("green")
+t.color("magenta")
 t.hideturtle()
 
 # --- Position the turtle to start drawing ---

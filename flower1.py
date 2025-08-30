@@ -1,7 +1,6 @@
 import turtle
 noah=turtle.Turtle()
-
-
+turtle.bgcolor('#0d0d2b')
 noah.color('#ff1100','#3cff00')
 noah.begin_fill()
 for i in range(8):
